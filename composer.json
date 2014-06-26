@@ -1,0 +1,17 @@
+{
+	"name": "bhargav2785/curlest",
+	"type": "library",
+	"description": "a PHP cURL request library",
+	"keywords": ["curl", "php", "rest api", "rest", "api"],
+	"authors": [
+		{
+			"name": "Bhargav Vadher"
+		}
+	],
+	"require": {
+		"php": ">=5.2"
+	},
+	"require-dev": {
+		"phpunit/phpunit": "~4.0"
+	}
+}
